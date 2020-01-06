@@ -1,0 +1,65 @@
+header nav ul li{
+	display: inline-block;
+}
+main section img {
+	width: 150px;
+	height: 150px;
+}
+p {
+	font-family: serif;
+}
+
+li:hover{
+background-color: #000006;
+}
+
+
+
+
+
+.bilel {
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+}
+.bilel1{
+	color: red;
+}
+.bilel2{
+	color: blue;
+}
+.bilel3{
+	color: green;
+}
+.chal1{
+	background-color: red;
+}
+.chal2{
+	background-color: blue;
+}
+.chal3{
+	background-color: green;
+}
+footer{
+	text-align: center;
+	margin-top: 20px;
+}
+footer img{width: 50px;
+	height: 50px;
+
+}
+img{
+	margin-left: 2px;
+}
+*{
+margin: 1px 1px 1px 1px}
+.aa{
+	font-family: arial;
+}
+.jj{
+	font-family: monospace;
+
+}
+h1{
+	font-size:30px;
+}
+
